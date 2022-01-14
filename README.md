@@ -5,7 +5,7 @@
 * I'm keen on sociological, cultural, demographical, market research projects, and more
 
 ## Skills
-* improving Python, R & Sql in
+* improving Python, R & Sql
 * Tableau & Power BI
 * Learning Cloud Computing & Machine Larning
 ~
